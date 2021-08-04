@@ -1,7 +1,7 @@
 # TyHM
 Trabajo de Técnicas y Herramientas Modernas
 
-Alumno: Galarraga, Maria Cecilia
+Alumno: Galarraga, María Cecilia
 Grupo: Los Absorbedores
 
 # Modulo 1, creación de textos e hipertextos
@@ -14,7 +14,7 @@ Repositorio de Github
 <img src="https://user-images.githubusercontent.com/88161427/128201141-eee5a187-a5e1-4e96-bc1d-7afd263a113c.png">
 </a>
 
-# Link de la traduccion del capitulo de mi repositorio haciendo click en la imagen 
+# Link de la traducción del capítulo de mi repositorio haciendo click en la imagen 
 
 <a href="https://github.com/Ceci98/TyHM/blob/main/Capi%CC%81tulo%206%20final.pdf">
 <img src="https://user-images.githubusercontent.com/88161427/128201897-867b0bd7-34a4-4bbc-9673-dff2300fbb87.png">
